@@ -16,7 +16,7 @@
   <ItemGroup>
 	  <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
 	  <PackageReference Include="FFMpegCore" Version="5.1.0" />
-	  <PackageReference Include="System.Text.Json" Version="7.0.3" />
+	  <PackageReference Include="System.Text.Json" Version="8.0.4" />
 	  <Reference Include="CodeWalker.Core">
         <HintPath>lib\CodeWalker.Core.dll</HintPath>
       </Reference>
